@@ -1,4 +1,4 @@
-# CLI_Password_Manager
+# CLI Password Manager
 A simple CLI Password Manager built with Bash that encrypts and stores your passwords securely using OpenSSL — all from your terminal.
 
 
