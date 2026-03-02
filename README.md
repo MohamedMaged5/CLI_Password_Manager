@@ -3,6 +3,10 @@ A simple CLI Password Manager built with Bash that encrypts and stores your pass
 
 
 
+
+https://github.com/user-attachments/assets/214f5e72-f945-48fb-b267-3e1e05417d9c
+
+
 ## Features:
 🔐 𝗠𝗮𝘀𝘁𝗲𝗿 𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻: single password gates access to the entire vault.
 
